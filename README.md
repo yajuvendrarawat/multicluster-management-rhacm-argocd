@@ -88,10 +88,6 @@ If the Argo CD's auto prune was enabled for an application named `example`, then
 
 ## TODO
 
-* Shortcomings: Cannot make Argo CD forget a resource (Prune=false) that was removed from git, need to remove the label.
-* Non-Git channels cannot be created in the same namespace
-* Add my kustomizations to the content list below.
-
 ## References
 
 To create this repo, I drew ideas and inspiration from:
